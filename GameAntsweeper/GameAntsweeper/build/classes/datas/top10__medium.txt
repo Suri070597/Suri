@@ -1,0 +1,5 @@
+Top1: Score=130 Time=00:01:37
+Top2: Score=128 Time=00:01:40
+Top3: Score=127 Time=00:01:49
+Top4: Score=126 Time=00:02:08
+Top5: Score=110 Time=00:02:22

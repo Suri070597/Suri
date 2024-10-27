@@ -1,0 +1,12 @@
+Top1: Score=71 Time=00:01:03
+Top2: Score=70 Time=00:00:39
+Top3: Score=70 Time=00:00:39
+Top4: Score=68 Time=00:00:39
+Top5: Score=67 Time=00:00:44
+Top6: Score=67 Time=00:00:44
+Top7: Score=66 Time=00:00:25
+Top8: Score=66 Time=00:00:25
+Top9: Score=64 Time=00:00:29
+Top10: Score=64 Time=00:00:44
+Top11: Score=64 Time=00:00:44
+Top12: Score=55 Time=00:00:38
